@@ -12,3 +12,7 @@ My name is Duong Trong Tai<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiduong1411&repo=babyshytrendy&theme=radical" />
 </a>    
+<a href="https://github.com/taiduong1411/taskVN/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=taiduong1411&repo=taskVN&theme=merko" />
+</a>
