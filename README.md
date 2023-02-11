@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Duong Trong Tai. 
-I'm a Bachelor of Information Technology in Ton Duc Thang University. 
-I'm a website developer 💻 br>
+My name is Duong Trong Tai. </br> 
+I'm a Bachelor of Information Technology in Ton Duc Thang University. </br>
+I'm a website developer 💻
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) 
